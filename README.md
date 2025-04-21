@@ -1,7 +1,12 @@
 # 💧 Proyecto Scratch: Alerta de Agua con Raspberry Pi 4 🚨
 
-Este proyecto utiliza **Scratch** en la **Raspberry Pi 4** 🧠 junto con un **sensor de agua** 💦 y un **zumbador** 🔊 para detectar la presencia de agua y activar una alerta sonora. Ideal para aprender sobre sensores, GPIO y programación visual con bloques. ¡Perfecto para principiantes y niños! 🧒👩‍💻
+Este proyecto utiliza **Scratch** en la **Raspberry Pi 4** 🧠 junto con un **sensor de agua** 💦 y un **zumbador** 🔊 para detectar la presencia de agua y activar una alerta sonora. Ideal para aprender sobre sensores, GPIO y programación visual con bloques. 
 
+### 🧠 AUTORES
+- Iker Cupilla 
+- Javi Rocha
+- Ivan Palma
+- Antonio Benitez
 ---
 
 ## 🧰 Componentes Necesarios
